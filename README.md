@@ -1,5 +1,6 @@
-#Estudiante avanzado de Ingeniería en Informática y Diseño Multimedial con experiencia práctica en desarrollo de software (C#, Unity) y diseño de interacción física. Fuerte capacidad para la integración de hardware y software, demostrada en la creación de videojuegos e instalaciones interactivas con periféricos personalizados.
-#Soy proactivo, autodidacta y estoy listo para un entorno de Beta Continuo. Busco ejecutar con excelencia y aportar valor en un equipo de alto rendimiento.
+Estudiante avanzado de Ingeniería en Informática y Diseño Multimedial con experiencia práctica en desarrollo de software (C#, Unity) y diseño de interacción física. Fuerte capacidad para la integración de hardware y software, demostrada en la creación de videojuegos e instalaciones interactivas con periféricos personalizados.
+
+Soy proactivo, autodidacta y estoy listo para un entorno de Beta Continuo. Busco ejecutar con excelencia y aportar valor en un equipo de alto rendimiento.
 
 
 <!--
